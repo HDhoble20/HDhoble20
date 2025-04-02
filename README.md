@@ -8,16 +8,15 @@
  👋 Hi, I’m @HDhoble20
 - 👀 I’m interested in Web Developement 
   
-- [![Resume](https://img.shields.io/badge/Resume-212121?logo=pagekit&logoColor=FFEFCB&style=for-the-badge)](https://drive.google.com/file/d/1DJ4H8zkq16eDaLWolpyYcV4Tru_FxicV/view?usp=sharing)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dhoble-6a68a81a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <p align='center' style='margin: 16px 4px 8px'>
-    <img src="./assets/animi-guy.webp" alt="working developer">
+    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV81Ml9hX21pbmltYWxfYW5kX2xlc3NfZGV0YWlsX2lsbHVzdHJhdGlvbl9vZl9zdF9kNjczMDlkZS1jMTkyLTQ5ZWMtOTIwYi0yNTMwMzFiMjc3NzEuanBn.jpg" alt="working developer">
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=plpatil1&color=orange" alt="Profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=HDhoble20&color=orange" alt="Profile view counter" />
 </div>
 
 
@@ -83,7 +82,7 @@
 
 ### 3D Contribution Graph
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Aleph-Kim/Aleph-Kim/ff174ff319e46a71b19f82539355546287918082/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
